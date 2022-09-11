@@ -12,10 +12,10 @@ I'm an avid Web3 Frontend Engineer.
             height="40"
         />
     </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+    <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer">
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-            alt="svelte"
+            alt="sveltekit"
             width="40"
             height="40"
         />
@@ -48,14 +48,6 @@ I'm an avid Web3 Frontend Engineer.
 
 <h3 align="left">Others:</h3>
 <p align="left">
-    <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg"
-            alt="sapper"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
