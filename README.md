@@ -100,14 +100,6 @@ I'm an avid Web3 Frontend Engineer.
             height="40"
         />
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-        />
-    </a>
 </p>
 
 <p align="left">
@@ -155,14 +147,6 @@ I'm an avid Web3 Frontend Engineer.
         <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
             alt="tensorflow"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-            alt="pytorch"
             width="40"
             height="40"
         />
