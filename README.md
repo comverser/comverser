@@ -44,6 +44,9 @@ I'm an avid Web3 Frontend Engineer.
       height="40"
     />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Others:</h3>
